@@ -10,8 +10,6 @@ public class SortedMatrix {
         };
 
     }
-    static int[] SortedSearch(){
 
-    }
 
 }
