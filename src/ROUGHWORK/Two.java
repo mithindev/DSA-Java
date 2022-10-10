@@ -45,7 +45,7 @@ public class Two {
             return;
         }
         int c = 2;
-        while (c * c <= num)
+        while (c * c <= num);
     }
 }
 
