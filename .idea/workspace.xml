@@ -39,13 +39,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Prime">
-    <configuration name="Doubt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DAY21.Doubt" />
+  <component name="RunManager" selected="Application.Reverse">
+    <configuration name="CountNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.CountNums" />
       <module name="_46DaysOfDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DAY21.*" />
+          <option name="PATTERN" value="ROUGHWORK.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.One" />
+    <configuration name="Fibbonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.Fibbonacci" />
       <module name="_46DaysOfDSA" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Revision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.Revision" />
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.Reverse" />
       <module name="_46DaysOfDSA" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.Two" />
+    <configuration name="Three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.Three" />
       <module name="_46DaysOfDSA" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reverse" />
+        <item itemvalue="Application.CountNums" />
+        <item itemvalue="Application.Fibbonacci" />
+        <item itemvalue="Application.Three" />
         <item itemvalue="Application.Prime" />
-        <item itemvalue="Application.Two" />
-        <item itemvalue="Application.One" />
-        <item itemvalue="Application.Revision" />
-        <item itemvalue="Application.Doubt" />
       </list>
     </recent_temporary>
   </component>
