@@ -39,9 +39,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Prime2">
-    <configuration name="Change" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.Change" />
+  <component name="RunManager" selected="Application.Amst">
+    <configuration name="Amst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Amst" />
+      <module name="_46DaysOfDSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Amstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.Amstrong" />
       <module name="_46DaysOfDSA" />
       <extension name="coverage">
         <pattern>
@@ -53,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.Four" />
+    <configuration name="Change" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.Change" />
       <module name="_46DaysOfDSA" />
       <extension name="coverage">
         <pattern>
@@ -92,26 +99,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.Swap" />
-      <module name="_46DaysOfDSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ROUGHWORK.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Amst" />
+        <item itemvalue="Application.Amstrong" />
         <item itemvalue="Application.Prime2" />
         <item itemvalue="Application.Shadowing" />
         <item itemvalue="Application.Change" />
-        <item itemvalue="Application.Four" />
-        <item itemvalue="Application.Swap" />
       </list>
     </recent_temporary>
   </component>
