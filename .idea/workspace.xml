@@ -39,16 +39,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Amst">
-    <configuration name="Amst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Amst" />
-      <module name="_46DaysOfDSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Amstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.Amstrong" />
+  <component name="RunManager" selected="Application.Even">
+    <configuration name="Even" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.Even" />
       <module name="_46DaysOfDSA" />
       <extension name="coverage">
         <pattern>
@@ -60,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Change" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.Change" />
+    <configuration name="L2Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.L2Search" />
       <module name="_46DaysOfDSA" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prime2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.Prime2" />
+    <configuration name="Leap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.Leap" />
       <module name="_46DaysOfDSA" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +79,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shadowing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.Shadowing" />
+    <configuration name="Min" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.Min" />
+      <module name="_46DaysOfDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ROUGHWORK.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="linearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.linearSearch" />
       <module name="_46DaysOfDSA" />
       <extension name="coverage">
         <pattern>
@@ -101,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Amst" />
-        <item itemvalue="Application.Amstrong" />
-        <item itemvalue="Application.Prime2" />
-        <item itemvalue="Application.Shadowing" />
-        <item itemvalue="Application.Change" />
+        <item itemvalue="Application.Even" />
+        <item itemvalue="Application.Min" />
+        <item itemvalue="Application.L2Search" />
+        <item itemvalue="Application.linearSearch" />
+        <item itemvalue="Application.Leap" />
       </list>
     </recent_temporary>
   </component>
