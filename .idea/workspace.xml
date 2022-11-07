@@ -39,9 +39,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SortedMatrix">
-    <configuration name="Even" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.Even" />
+  <component name="RunManager" selected="Application.CyclicSort">
+    <configuration name="BinarySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.BinarySort" />
       <module name="_46DaysOfDSA" />
       <extension name="coverage">
         <pattern>
@@ -53,21 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L2Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.L2Search" />
-      <module name="_46DaysOfDSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ROUGHWORK.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Min" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.Min" />
+    <configuration name="CyclicSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.CyclicSort" />
       <module name="_46DaysOfDSA" />
       <extension name="coverage">
         <pattern>
@@ -81,6 +68,19 @@
     </configuration>
     <configuration name="Pr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ROUGHWORK.Pr" />
+      <module name="_46DaysOfDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ROUGHWORK.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.SelectionSort" />
       <module name="_46DaysOfDSA" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CyclicSort" />
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.BinarySort" />
         <item itemvalue="Application.SortedMatrix" />
         <item itemvalue="Application.Pr" />
-        <item itemvalue="Application.Even" />
-        <item itemvalue="Application.Min" />
-        <item itemvalue="Application.L2Search" />
       </list>
     </recent_temporary>
   </component>
