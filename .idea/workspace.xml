@@ -39,9 +39,35 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.pattern3">
-    <configuration name="CycSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.CycSort" />
+  <component name="RunManager" selected="Application.newpractice">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MYPLAYGROUND.BubbleSort" />
+      <module name="_46DaysOfDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MYPLAYGROUND.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MYPLAYGROUND.InsertionSort" />
+      <module name="_46DaysOfDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MYPLAYGROUND.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LSearchNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.LSearchNew" />
       <module name="_46DaysOfDSA" />
       <extension name="coverage">
         <pattern>
@@ -53,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.pattern1" />
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MYPLAYGROUND.SelectionSort" />
       <module name="_46DaysOfDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ROUGHWORK.*" />
+          <option name="PATTERN" value="MYPLAYGROUND.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,38 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.pattern2" />
+    <configuration name="newpractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MYPLAYGROUND.newpractice" />
       <module name="_46DaysOfDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ROUGHWORK.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="pattern3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.pattern3" />
-      <module name="_46DaysOfDSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ROUGHWORK.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test1234" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.test1234" />
-      <module name="_46DaysOfDSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ROUGHWORK.*" />
+          <option name="PATTERN" value="MYPLAYGROUND.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.pattern3" />
-        <item itemvalue="Application.pattern2" />
-        <item itemvalue="Application.pattern1" />
-        <item itemvalue="Application.CycSort" />
-        <item itemvalue="Application.test1234" />
+        <item itemvalue="Application.newpractice" />
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.LSearchNew" />
       </list>
     </recent_temporary>
   </component>
