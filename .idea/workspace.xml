@@ -39,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.newpractice">
+  <component name="RunManager" selected="Application.pattern1">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MYPLAYGROUND.BubbleSort" />
       <module name="_46DaysOfDSA" />
@@ -59,19 +59,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="MYPLAYGROUND.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LSearchNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ROUGHWORK.LSearchNew" />
-      <module name="_46DaysOfDSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ROUGHWORK.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,13 +92,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MYPLAYGROUND.pattern1" />
+      <module name="_46DaysOfDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MYPLAYGROUND.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pattern1" />
         <item itemvalue="Application.newpractice" />
         <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.LSearchNew" />
       </list>
     </recent_temporary>
   </component>
@@ -136,5 +136,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/_46DaysOfDSA$pattern1.ic" NAME="pattern1 Coverage Results" MODIFIED="1671353210208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>MYPLAYGROUND.*</FILTER>
+    </SUITE>
   </component>
 </project>
