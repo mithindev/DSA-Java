@@ -40,13 +40,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NewMain">
+  <component name="RunManager" selected="Application.Find">
     <configuration name="DAY30.pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DAY30.pattern1" />
       <module name="_46DaysOfDSA" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DAY30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Find" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MYPLAYGROUND.Find" />
+      <module name="_46DaysOfDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MYPLAYGROUND.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,19 +93,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DAY29.Sorted" />
-      <module name="_46DaysOfDSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DAY29.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TryingWithLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DAY29.TryingWithLinkedList" />
       <module name="_46DaysOfDSA" />
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Find" />
         <item itemvalue="Application.NewMain" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DAY30.pattern1" />
         <item itemvalue="Application.TryingWithLinkedList" />
-        <item itemvalue="Application.Sorted" />
       </list>
     </recent_temporary>
   </component>
