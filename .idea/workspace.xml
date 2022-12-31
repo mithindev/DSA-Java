@@ -40,13 +40,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Patterns">
-    <configuration name="DAY30.pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DAY30.pattern1" />
+  <component name="RunManager" selected="Application.BS">
+    <configuration name="BS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MYPLAYGROUND.BS" />
       <module name="_46DaysOfDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DAY30.*" />
+          <option name="PATTERN" value="MYPLAYGROUND.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BS" />
         <item itemvalue="Application.Patterns" />
         <item itemvalue="Application.Find" />
         <item itemvalue="Application.NewMain" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DAY30.pattern1" />
       </list>
     </recent_temporary>
   </component>
@@ -149,6 +149,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/MYPLAYGROUND/Patterns.java</url>
+          <line>31</line>
+          <properties class="MYPLAYGROUND.Patterns" method="triangle2">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
