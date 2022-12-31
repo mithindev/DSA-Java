@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9419ca80-ddb4-436b-b4a7-738edf45a835" name="Changes" comment="" />
+    <list default="true" id="9419ca80-ddb4-436b-b4a7-738edf45a835" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BS">
+  <component name="RunManager" selected="Application.MergeSort">
     <configuration name="BS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MYPLAYGROUND.BS" />
       <module name="_46DaysOfDSA" />
@@ -65,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MYPLAYGROUND.Main" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MYPLAYGROUND.MergeSort" />
       <module name="_46DaysOfDSA" />
       <extension name="coverage">
         <pattern>
@@ -106,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.BS" />
         <item itemvalue="Application.Patterns" />
         <item itemvalue="Application.Find" />
         <item itemvalue="Application.NewMain" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
