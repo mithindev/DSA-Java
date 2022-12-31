@@ -40,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Find">
+  <component name="RunManager" selected="Application.Patterns">
     <configuration name="DAY30.pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DAY30.pattern1" />
       <module name="_46DaysOfDSA" />
@@ -93,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryingWithLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DAY29.TryingWithLinkedList" />
+    <configuration name="Patterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MYPLAYGROUND.Patterns" />
       <module name="_46DaysOfDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DAY29.*" />
+          <option name="PATTERN" value="MYPLAYGROUND.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Patterns" />
         <item itemvalue="Application.Find" />
         <item itemvalue="Application.NewMain" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DAY30.pattern1" />
-        <item itemvalue="Application.TryingWithLinkedList" />
       </list>
     </recent_temporary>
   </component>

@@ -23,7 +23,7 @@ public class RotatedBinSearch {
             }
         }
         if (target >= arr[m] && target <= arr[e]) {
-            return RBS(arr, target, m+1, e)
+            return RBS(arr, target, m+1, e);
         }
 
         return RBS(arr, target, s, m-1);
