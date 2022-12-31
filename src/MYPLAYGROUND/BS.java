@@ -24,7 +24,4 @@ public class BS {
             BubbleSort(arr, r-1, 0);
         }
     }
-
-    static void Selection
-
 }
