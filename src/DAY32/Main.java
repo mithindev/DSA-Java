@@ -27,5 +27,39 @@ public class Main {
         }
     }
 
-    stati
+    static String skip (String up) {
+        if (up.isEmpty()) {
+            return "";
+        }
+
+        char ch = up.charAt(0);
+
+        if (ch == 'a') {
+            return skip(up.substring(1));
+        } else {
+            return ch + skip(up.substring(1));
+        }
+    }
+
+    static String skipMithin (String up) {
+        if (up.isEmpty()) {
+            return "";
+        }
+        if (up.startsWith("mithin")) {
+            return skipMithin(up.substring(6));
+        } else {
+            return up.charAt(0) + skipMithin(up.substring(1));
+        }
+    }
+
+    static String skipMitNotMithin (String up) {
+        if (up.isEmpty()) {
+            return "";
+        }
+        if (up.startsWith("mit") && !up.startsWith("mithin")) {
+            return skipMitNotMithin(up.substring(3));
+        } else {
+            return up.charAt(0) + skipMitNotMithin(up.substring(1));
+        }
+    }
 }
